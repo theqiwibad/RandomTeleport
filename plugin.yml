@@ -1,0 +1,9 @@
+name: "RandomTeleport"
+version: "1.0.0"
+main: "RandomTeleport"
+api: "5.0.0"
+
+website: "https://vk.com/bedrocktimestudio"
+author: "BedrockTimeStudio"
+
+load: "STARTUP"
